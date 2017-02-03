@@ -1,0 +1,170 @@
+body {
+  background-color: rgb(255, 255, 255);
+  font: 100 2.688em/1.38 Lato;
+  color: rgb(255, 255, 255);
+}
+
+.container {
+  position: relative;
+  float: left;
+  z-index: 0;
+  width: 100%;
+  height: 807px;
+  margin-top: -2px;
+  background-image: url('../images/SplitShire-7912-1280x854%20copy1.jpg');
+  background-size: auto auto;
+  background-position: left top;
+}
+
+.file {
+  display: block;
+  float: left;
+  clear: both;
+  width: 99.4285714285%;
+  height: 40px;
+  margin: 26px 0 0 -0.00893%;
+  padding: 0 10px;
+  font-size: 0.488em;
+  text-align: center;
+  color: rgb(255, 255, 255);
+}
+
+.sign-up {
+  position: relative;
+  float: left;
+  z-index: 11;
+  width: 29.1666666666%;
+  height: 300px;
+  margin: -535px 0 0 35.41667%;
+}
+
+.text {
+  position: relative;
+  float: left;
+  z-index: 5;
+  width: 19.4166666666%;
+  min-height: 111px;
+  margin: -608px 0 0 45.16276%;
+  font-size: 1em;
+  color: rgb(255, 255, 255);
+}
+
+._button {
+  display: block;
+  float: left;
+  clear: both;
+  width: 30.2857142857%;
+  height: 39px;
+  margin: 31px 0 0 35.125%;
+  border-radius: 3px;
+  background-color: rgba(0, 178, 255, 0.67);
+  font-size: 0.372em;
+  font-weight: 400;
+  text-align: center;
+  color: rgb(255, 255, 255);
+}
+
+._input {
+  display: block;
+  float: left;
+  padding: 0 10px;
+  text-align: center;
+  color: rgb(255, 255, 255);
+}
+
+._textarea {
+  display: block;
+  float: left;
+  clear: both;
+  width: 99.7142857142%;
+  height: 115px;
+  margin: 19px 0 0 0.28125%;
+  padding: 5px;
+  background-color: rgba(0, 178, 255, 0.18);
+  font-size: 0.372em;
+  font-weight: 400;
+  text-align: center;
+  color: rgb(255, 255, 255);
+  resize: none;
+}
+
+._element-2 {
+  display: block;
+  position: relative;
+  float: left;
+  clear: both;
+  z-index: 1;
+  width: 14.4166666666%;
+  height: 40px;
+  margin: -766px 0 0 3.41667%;
+  background-image: url('../images/Untitled-1.png');
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: left top;
+}
+
+._text-1 {
+  display: block;
+  position: relative;
+  float: left;
+  z-index: 3;
+  width: 4.75%;
+  min-height: 77px;
+  margin: -766px 0 0 73.83073%;
+  font-family: Montserrat;
+  font-size: 0.372em;
+  font-weight: 400;
+  text-align: center;
+  color: rgb(255, 255, 255);
+}
+
+._text-1:active {
+  color: rgb(135, 225, 245);
+}
+
+._text-2 {
+  display: block;
+  position: relative;
+  float: left;
+  z-index: 2;
+  width: 4.3333333333%;
+  min-height: 77px;
+  margin: -766px 0 0 81.4974%;
+  font-family: Montserrat;
+  font-size: 0.372em;
+  font-weight: 400;
+  text-align: center;
+  color: rgb(255, 255, 255);
+}
+
+._text-3 {
+  display: block;
+  position: relative;
+  float: left;
+  z-index: 4;
+  width: 4.75%;
+  min-height: 77px;
+  margin: -766px 0 0 88.83203%;
+  font-family: Montserrat;
+  font-size: 0.372em;
+  font-weight: 400;
+  text-align: center;
+  color: rgb(255, 255, 255);
+}
+
+.sign-up ._input-1 {
+  width: 99.4285714285%;
+  height: 40px;
+  background-color: rgba(0, 178, 255, 0.21);
+  font-size: 0.488em;
+}
+
+.sign-up ._input-2 {
+  clear: both;
+  width: 99.7142857142%;
+  height: 43px;
+  margin: 22px 0 0 -0.29018%;
+  background-color: rgba(0, 178, 255, 0.18);
+  font-size: 0.372em;
+  font-weight: 400;
+}
